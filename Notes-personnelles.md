@@ -10,10 +10,9 @@ ABSPATH not define : si quelqu’un d’extérieur a notre site  ya  accest alor
 
 
 ## Potection
-```diff
-+ Dans  le fichier index. inserer le code suivant :
  
-```
+ Dans  le fichier index. inserer le code suivant :
+ 
 
 <?php
 // Silence is golden.
