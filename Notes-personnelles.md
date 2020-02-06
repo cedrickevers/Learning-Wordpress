@@ -1,8 +1,8 @@
 # Project Title
 ```diff
 - On ne touche pas au core de wordpress ( ex : wp-admin, wp-include)  car il est effacé à chaque MAJ
-- En période de développement Définir sur true =>  define(WP_DEBUG, true)   dans le fichier wp-config-sample.php pour avoir les infos du  - debug afin de comprendre ou le code foire et comment remédier à ça.
-- Inserer ce commentaire dans l’index.php a la racine du doissier contenant le plugin pour empecher que des intrus viens chipoter dans -  - le code
+ En période de développement Définir sur true =>  define(WP_DEBUG, true)   dans le fichier wp-config-sample.php pour avoir les infos du   debug afin de comprendre ou le code foire et comment remédier à ça.
+ Inserer ce commentaire dans l’index.php a la racine du doissier contenant le plugin pour empecher que des intrus viens chipoter dans le code
 
  - ABSATH not define : si quelqu’un d’extérieur a notre site  ya  accest alors ca met fin au script ou sans les permissions wordpress
  
